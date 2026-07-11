@@ -2,7 +2,7 @@
 
 ## What This Does
 
-Tells you if an open-source project is safe to depend on.
+This project tells you if an open-source project is safe to depend on.
 
 Instead of guessing based on stars or last update date, this analyzes 4 real signals:
 - **Activity**: Are they pushing code regularly?
