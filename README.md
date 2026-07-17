@@ -71,6 +71,16 @@ dependency-risk-analyzer/
  Dashboard and Reporting.pbix  (interactive visualization)
 
  README.md
+ 
+##Key Insights : Addessed 
+
+- Data Quality Matters - React scored 0 because GitHub API rate-limits large repos. Data completeness beats   data volume.
+
+- Correlation ≠ Causation - Stars and health correlate at -0.72, but that's partly due to API limitations,     not real abandonment.
+
+- Design Scoring Systems - Weighting decisions matter. Why 30% for activity but 15% for stability? Because    different metrics have different business impact.
+
+- API Constraints Are Real - GitHub limits 5,000 API calls/hour. Large projects need special handling.
 
 ## Results
 
