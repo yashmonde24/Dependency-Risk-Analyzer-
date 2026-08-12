@@ -104,3 +104,7 @@ Analyzed 10 major projects:
   Some repos have mostly OPEN issues (no closed_at date).
   Responsiveness score is harder to calculate.
   Fix: Fetch more closed issues or adjust weighting.
+
+## Outcomes Preview 
+- Dashboard :
+- EDA Summary : https://github.com/yashmonde24/Dependency-Risk-Analyzer-/tree/main/python/EDA%20Insights
