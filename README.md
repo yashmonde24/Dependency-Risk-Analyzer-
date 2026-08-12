@@ -106,5 +106,5 @@ Analyzed 10 major projects:
   Fix: Fetch more closed issues or adjust weighting.
 
 ## Outcomes Preview 
-- Dashboard :
+- Dashboard : https://github.com/yashmonde24/Dependency-Risk-Analyzer-/blob/main/powerbi/Reports%20and%20Semantic%20Model/Dashboard.pdf
 - EDA Summary : https://github.com/yashmonde24/Dependency-Risk-Analyzer-/tree/main/python/EDA%20Insights
