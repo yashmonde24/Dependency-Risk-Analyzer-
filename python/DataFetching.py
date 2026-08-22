@@ -6,20 +6,20 @@ import time
 
 # ===== CONFIG =====
 GITHUB_TOKEN = "# Get from: github.com/settings/tokens (Personal Access Token)"
-MSSQL_CONN = "Driver={ODBC Driver 18 for SQL Server};Server=#your_server_name;Database=GitHubHealthAnalytics;Trusted_Connection=yes;TrustServerCertificate=yes;Encrypt=no;"
+MSSQL_CONN = "Driver={ODBC Driver 18 for SQL Server};Server=#your_server_name;Database=#your_database_name;Trusted_Connection=yes;TrustServerCertificate=yes;Encrypt=no;"
 
 # target repos 
 REPOS_TO_FETCH = [
-    "pandas-dev/pandas",           # Very active, huge team
-    "apache/airflow",              # Active, large team
-    "pytorch/pytorch",             # Very active, large team
-    "tensorflow/tensorflow",        # Very active, large team
-    "kubernetes/kubernetes",        # Very active, large team
-    "nodejs/node",                 # Very active, large team
-    "python/cpython",              # Very active, large team
-    "torvalds/linux",              # REAL repo, massive, active
-    "microsoft/vscode",            # REAL repo, very active
-    "facebook/react",              # REAL repo, very active
+    "pandas-dev/pandas",           
+    "apache/airflow",            
+    "pytorch/pytorch",             
+    "tensorflow/tensorflow",        
+    "kubernetes/kubernetes",        
+    "nodejs/node",                
+    "python/cpython",         
+    "torvalds/linux",              
+    "microsoft/vscode",           
+    "facebook/react",              
 ]
 
 # ===== GITHUB API FUNCTIONS =====
